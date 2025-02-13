@@ -38,8 +38,8 @@ public class methods_in_java {
 
         methods_in_java obj = new methods_in_java();
 
-        // System.out.println(obj.sum(a, b));
-        // System.out.println(obj.sum(a, b, c));
+        System.out.println(obj.sum(a, b));
+        System.out.println(obj.sum(a, b, c));
 
         /*
          * If we keep on increasing the no. of parameters passed to the function, we
